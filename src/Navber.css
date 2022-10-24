@@ -1,0 +1,15 @@
+h1 {
+    display: inline;
+    color:rgb(0, 0, 0)
+}
+
+.navber {
+    position: relative;
+    margin-bottom: 10px;
+}
+.input {
+    display: inline;
+    position: absolute;
+    right: 50%;
+    left: 50%;
+}

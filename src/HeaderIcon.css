@@ -1,0 +1,39 @@
+.header-icon-box {
+    position: relative;
+    max-width: 100%;
+    width: 80%;
+    max-height: 400px;
+    background: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.header-icon-box img:hover {
+    background: black;
+    opacity: 0.25;
+    cursor: pointer;
+}
+
+.text-header h3 {
+    color: white;
+}
+
+.text-header h2 {
+    position: absolute;
+    bottom: 25px;
+    left: 40px;
+    font-size: 45px;
+    color:aliceblue;
+}
+
+.text-header p {
+    font-size: 16px;
+    display: inline;
+}
+
+.header-icon-box img {
+    width: 100%;
+    opacity: 0.5;
+}

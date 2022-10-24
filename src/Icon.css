@@ -1,0 +1,12 @@
+.icon-box img {
+    height: 250px;
+    border-radius: 10px;
+    transition: .5s ease;
+    pointer-events: auto;
+}
+
+.icon-box img:hover {
+    height: 275px;
+    transition: .5s ease;
+    pointer-events: auto;
+}
